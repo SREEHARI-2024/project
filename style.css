@@ -1,0 +1,337 @@
+
+  
+  /* Control the left side */
+.left {
+    left: 0;
+    float:left;
+    height: 500px;
+    width: 70%;
+    background:white;
+  }
+  
+  /* Control the right side */
+ .right {
+    right: 0;
+    float: left;
+    height: 500px;
+    width: 30%;
+    background: lightgray;
+  }
+.footer
+{
+    float: left;
+    width: 100%;
+    height: 150px;
+    background: red;
+}
+.rectangle {
+    float: left;
+    width: 20%;
+    height: 100px;
+    background:white;
+    padding-top: 0px;
+  }
+  .rectangle1{
+    float: left;
+    width: 25%;
+    height: 125px;
+    background:whitesmoke;
+    border: 3px solid grey;
+    border-radius: 2px;
+    margin-top: 0px;
+    margin-right: 10px;
+  }
+  .rectangle2{
+    float: left;
+    width: 25%;
+    height: 125px;
+    background: whitesmoke;
+    border: 3px solid grey;
+    border-radius: 2px;
+    margin-top: 0px;
+    margin-right: 10px;
+  }
+  .rectangle3 {
+    float: left;
+    width: 25%;
+    height: 125px;
+    background: whitesmoke;
+    border: 3px solid grey;
+    border-radius: 2px;
+    margin-top: 0px;
+    margin-right: 10px;
+  }
+.small
+{
+    width: 20%;
+    height: 100%;
+    background: grey;
+    float: left;
+}
+.small1
+{
+    width: 80%;
+    color:rgb(200, 200, 158);
+    float: left;
+    text-align: center;
+    font-weight: 400;
+    color: black;
+}
+#p1
+{
+ font-size: larger;
+ font-weight: 600;
+ font-size: 30px;
+ color: black;
+ margin: 0;
+}
+.circle1
+{
+    width: 32px;
+    height: 32px;
+    background:white;
+    border-radius: 50%;
+    margin-left: 5px;
+    margin-top: 2px;
+    margin-bottom: 5px;
+}
+.circle2
+{
+    width: 32px;
+    height: 32px;
+    background:white;
+    border-radius: 50%;
+    margin-left: 5px;
+    margin-top: 2px;
+    margin-bottom: 5px;
+}
+.circle3
+{
+    width: 32px;
+    height: 32px;
+    background:greenyellow;
+    border-radius: 50%;
+    margin-left: 5px;
+    margin-top: 2px;
+    margin-bottom: 5px;
+}
+.circle4
+{
+    width: 32px;
+    height: 32px;
+    background:orangered;
+    border-radius: 50%;
+    margin-left: 5px;
+    margin-top: 2px;
+    margin-bottom: 5px;
+}
+#p2
+{
+  font-size: 50px;
+  color: aliceblue;
+}
+.text1
+{
+    width: 70%;
+    height: 100%;
+    font-size: 30px;
+    float: left;
+    color: aliceblue;
+}
+.text2
+{
+    width: 30%;
+float: left;
+text-align: right;
+font-size: 30px;
+color: aliceblue;
+}
+#p3
+{
+    font-size: 30px;
+    font-weight: 700;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-left: 80%;
+}
+.small3
+{
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+.left1
+{
+  width: 100%;
+  height: 40%;
+}
+.left2
+{
+  width: 100%;
+  height: 40%;
+  background:white;
+}
+.circle5
+{
+  width: 32px;
+  height: 32px;
+  background:red;
+  border-radius: 50%;
+  margin-left: 5px;
+  margin-top: 2px;
+  margin-bottom: 5px;
+}
+.rectangle4{
+  float: left;
+  width: 25%;
+  height: 125px;
+  background:whitesmoke;
+  border: 3px solid grey;
+  border-radius: 2px;
+  margin-top: 50px;
+  margin-right: 10px;
+  margin-left: 100px;
+}
+.rectangle5{
+  float: left;
+  width: 25%;
+  height: 125px;
+  background: whitesmoke;
+  border: 3px solid grey;
+  border-radius: 2px;
+  margin-top: 50px;
+  margin-right: 10px;
+}
+.rectangle6{
+  float: left;
+  width: 25%;
+  height: 125px;
+  background: whitesmoke;
+  border: 3px solid grey;
+  border-radius: 2px;
+  margin-top: 50px;
+  margin-right: 10px;
+}
+.left3
+{
+  width: 100%;
+  height: 100px;;
+  background: white;
+}
+#p5
+{
+  font-weight: 800;
+  color: grey;
+  text-align: center;
+  font-size: 30px;
+  padding-left: 215px;
+}
+.square {
+  width: 75px;
+  height: 75px;
+  background:blue;
+}
+.triangle-topleft
+{
+  border-top: 75px solid blue;
+  border-right: 75px solid transparent;
+  padding-left: 75px;
+}
+.small4
+{
+  width: 55px;
+  height: 75px;
+  font-size: 30px;
+  font-weight: 600;
+  padding-left: 125px;
+  
+}
+.r1{
+  width: 50%;
+  float: left;
+  height: 75px;
+}
+.r2{
+  width: 50%;
+  float: left;
+  height: 75px;
+}
+.lasttext
+{
+  font-size: larger;
+ font-weight: 600;
+ font-size: 20px;
+ color: black;
+ width: 30px;
+ float: left;
+
+}
+.left4{
+  width: 100%;
+  height: 20%;
+  
+}
+.lr1{
+  width: 25%;
+  height: 100%;
+  float: left;
+  margin-left: 100px;
+  font-size: 15px;
+}
+.lr2{
+  width: 25%;
+  height: 100%;
+  float: left;
+  font-size: 15px;
+  margin-left: 10px;
+}
+.lr3{
+  width: 25%;
+  height: 100%;
+  float: left;
+  font-size: 15px;
+  margin-left: 12px;
+}
+#p7
+{
+  font-size: 30px;
+  
+}
+.donut {
+  /* (A1) CIRCLE */
+  width: 160px; height: 160px;
+  border-radius: 50%;
+ 
+  background: conic-gradient(
+    rgb(68, 68, 66) 0deg 140deg,
+    transparent 140deg 220deg,
+    #7bff00 220deg 360deg
+  );
+}
+.hole {
+  width: 90px; height: 90px;
+  border-radius: 50%;
+  background: lightgray;
+}
+ 
+/* (B2) "CONVERT PIE TO DONUT" - CENTER SMALLER CIRCLE */
+.donut {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.gauge
+{
+  
+  padding-top: 160px;
+  padding-left: 140px;
+
+
+}
+#holee
+{
+  font-size: medium;
+  padding-left: 25px;
+  padding-top: 10px;
+}
+
+
